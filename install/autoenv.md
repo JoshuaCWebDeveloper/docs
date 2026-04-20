@@ -1,4 +1,4 @@
-## Autoenv
+# Autoenv
 
 Installing autoenv eliminates the need to run {{ List all environment switching commands for project (i.e. `nvm use`, `conda activate projectname`, etc.) }} every time you `cd`
 into the project.
