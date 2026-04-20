@@ -1,4 +1,4 @@
-## LocalStack AWS CLI
+# LocalStack AWS CLI
 
 **Dependencies:**
 
