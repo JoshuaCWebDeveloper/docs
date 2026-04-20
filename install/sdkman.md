@@ -1,4 +1,4 @@
-## SDKMAN
+# SDKMAN
 
 Run:
 
