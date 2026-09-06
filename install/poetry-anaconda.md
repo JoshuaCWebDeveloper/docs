@@ -1,4 +1,4 @@
-# Poetry
+# Poetry w/ Anaconda
 
 **Dependencies:**
 
