@@ -5,7 +5,7 @@
 Run:
 
 ```bash
-export PYENV_GIT_TAG=v2.8.5 && curl -fsSL https://pyenv.run | bash
+export PYENV_GIT_TAG=v{{VERSION}} && curl -fsSL https://pyenv.run | bash
 ```
 
 Run:
