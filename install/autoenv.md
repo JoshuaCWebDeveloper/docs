@@ -10,7 +10,7 @@ into the project.
 Run:
 
 ```bash
-nvm use node
+nvm use default
 ```
 
 ```bash
