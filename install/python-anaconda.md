@@ -1,5 +1,7 @@
 # Python via Anaconda
 
+## Anaconda
+
 Run:
 
 ```bash
@@ -12,7 +14,13 @@ Run:
 conda config --set auto_activate_base false
 ```
 
-Run:
+## Python
+
+**Dependencies:**
+
+- Anaconda
+
+From inside the project root directory, run:
 
 ```bash
 conda env create
