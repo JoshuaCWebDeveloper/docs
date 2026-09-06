@@ -1,4 +1,4 @@
-# Anaconda
+# Python via Anaconda
 
 Run:
 
